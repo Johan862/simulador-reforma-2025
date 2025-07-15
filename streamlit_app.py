@@ -80,7 +80,7 @@ if st.button("Simular"):
                 "Horas base": horas_base,
                 "Subtotal": round(subtotal, 0),
                 "Auxilio": round(emp["auxilio"], 0),
-                "Parafiscales (1.52)": round(parafiscales, 0),
+                "Parafiscales (0.52)": round(parafiscales, 0),
                 "Total mes": round(total_mes, 0)
             })
 
